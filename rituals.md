@@ -30,7 +30,7 @@ End with one line on what happens once this is settled.
 
 **How it reads.** Plain, succinct prose for someone who knows the project. Not dumbed down; no function names, call names or file internals. Facts stated plainly; what isn't known, said so. The user's own words quoted where they set something. Numbers with their units and what they mean against their target ("about fifteen times slower than the plan's real-time target").
 
-**Why it matters.** The author's phrase: *the drift canary*. If a session cannot write this clearly and succinctly from the sources, something has started drifting. The user's original words, quoted: "these paragraphs are kind of the unwritten canary in the coal mine for when things are drifting ... if you can't clearly and succinctly explain where we are in the project, what you are building, and why — then that is when you start building things that don't match my mental model."
+**Why it matters.** The drift canary. If a session cannot write the review clearly and succinctly from the sources, something has started drifting. The review is cheap to run; running it periodically catches drift while a correction is still cheap.
 
 **When to run it.** Weekly; at every major boundary; whenever you feel unmoored; whenever you suspect a session has lost the plot. Read from the sources (goal, design, plan, state, records, git log), not from memory.
 
@@ -38,7 +38,7 @@ End with one line on what happens once this is settled.
 
 Standing rule, written into every role. Before agreeing with a proposal — the user's, another session's, or one of your own — look for what is wrong or risky in it against the goal, the design and the evidence. Raise that first.
 
-Sessions are inclined to agree with whoever they are working with and to write confident text quickly. The check costs little; skipping it is where quiet errors enter. The author's own phrase for this tendency: *the agreeing tendency*.
+Sessions are inclined to agree with whoever they are working with and to write confident text quickly. The check costs little; skipping it is where quiet errors enter.
 
 A check that finds nothing says so: "I looked at this against §3 and the state file; I see nothing worth raising." That is an answer. A bare "yes" without a check is not.
 

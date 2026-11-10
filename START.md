@@ -35,9 +35,5 @@ Read [onboarding.md](onboarding.md): the day-one moves, in order. Make the pack'
 ## What this is not
 
 - **Not a framework or a plugin.** Nothing to install; nothing to configure.
-- **Not a rulebook.** The *shapes* of the documents and the *roles* of the sessions are what hold. The exact wording is the author's; a user is expected to rephrase it in their own terms.
+- **Not a rulebook.** The *shapes* of the documents and the *roles* of the sessions are what hold. The wording is one person's; a user is expected to rephrase it in their own terms.
 - **Not AI-specific in principle.** The patterns are about keeping intent intact across short-memory workers. They happen to be written for Claude because that is where they were developed; they would not change much for another capable assistant.
-
-## A word on the author's project
-
-Where this pack cites an example or a worked case, it is usually from the original project (a WebGPU neural circuit simulation). The pack never requires that project to make sense: examples are footnotes, not prerequisites.

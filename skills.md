@@ -6,7 +6,7 @@ This file is a map, not an installer. In Claude Code, skills live in each user's
 
 ## In active use
 
-**/where-are-we** — Runs the where-are-we review (see [rituals.md](rituals.md)). The session reads the goals file, the design, the plan in force, the state file, the findings ledger's Open table, and the git log, then writes the four-section review in plain prose. The author keeps this as a project-level skill so its reading list points at the project's own paths; the body of the skill is the same across projects.
+**/where-are-we** — Runs the where-are-we review (see [rituals.md](rituals.md)). The session reads the goals file, the design, the plan in force, the state file, the findings ledger's Open table, and the git log, then writes the four-section review in plain prose. Usually a project-level skill so its reading list points at the project's own paths; the body of the skill is the same across projects.
 
 ## Skills the pack could grow
 
