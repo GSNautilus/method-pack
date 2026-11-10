@@ -19,13 +19,18 @@ Written up here for two readers:
 
 **To have a Claude session work this way on your project:** point it at this folder ("read the whole method-pack folder, in the order START.md says") before asking it to do anything substantive. Then say the thing: *be a coordinator for this project*, *write a handoff for the next session*, *run a where-are-we*, *check this against the design before you agree with it*. It will know what you mean.
 
+## Setting up the pack on a new project
+
+Read [onboarding.md](onboarding.md): the day-one moves, in order. Make the pack's pieces exist in your project before you point a session at them. Nothing heavy — the pack is additive, and you set up only what you need now.
+
 ## Read in this order
 
 1. [vocabulary.md](vocabulary.md) — the words this pack uses, each with a short plain definition. Read this second (after this file). Later documents assume it.
 2. [rituals.md](rituals.md) — the short, repeated acts that keep the methods alive (where-are-we, paragraphs-before-building, check-before-agreeing, record every session, run only on go).
 3. [roles/](roles/) — the coordinator, builder and auditor role documents. Read in full when a project splits the work across separate sessions per role.
 4. [shapes/](shapes/) — templates for the documents the methods rest on (state file, handoff, record, plan, goals, role).
-5. [skills.md](skills.md) — the slash-commands the author uses alongside these methods, and what each does.
+5. [examples/](examples/) — real documents from one worked project (state file, handoff, record, where-are-we), showing the shapes in actual use.
+6. [skills.md](skills.md) — the slash-commands the author uses alongside these methods, and what each does.
 
 ## What this is not
 
